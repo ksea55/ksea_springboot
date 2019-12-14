@@ -1,0 +1,2 @@
+server:
+  port: 80 #设置tomcat的启动端口为80

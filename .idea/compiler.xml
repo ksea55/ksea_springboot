@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2springboot2.0-config" />
+        <module name="4springboot2-started" />
+        <module name="logging" />
+        <module name="logback" />
+        <module name="3springboot2.0-logging" />
+        <module name="3springboot2.0-logback" />
+        <module name="config" />
+        <module name="started" />
+        <module name="springboot2.0-helloword" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="2springboot2.0-config" target="1.8" />
+      <module name="3springboot2.0-logback" target="1.7" />
+      <module name="3springboot2.0-logging" target="1.8" />
+      <module name="4springboot2-started" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="logback" target="1.8" />
+      <module name="logging" target="1.8" />
+      <module name="springboot2.0-helloword" target="1.8" />
+      <module name="started" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="2springboot2.0-config" options="-parameters" />
+      <module name="3springboot2.0-logging" options="-parameters" />
+      <module name="4springboot2-started" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="logback" options="-parameters" />
+      <module name="logging" options="-parameters" />
+      <module name="springboot2.0-helloword" options="-parameters" />
+      <module name="started" options="-parameters" />
+    </option>
+  </component>
+</project>

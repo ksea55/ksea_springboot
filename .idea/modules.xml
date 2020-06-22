@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2springboot2.0-config/2springboot2.0-config.iml" filepath="$PROJECT_DIR$/2springboot2.0-config/2springboot2.0-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3springboot2.0-logback/3springboot2.0-logback.iml" filepath="$PROJECT_DIR$/3springboot2.0-logback/3springboot2.0-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3springboot2.0-logging/3springboot2.0-logging.iml" filepath="$PROJECT_DIR$/3springboot2.0-logging/3springboot2.0-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4springboot2-started/4springboot2-started.iml" filepath="$PROJECT_DIR$/4springboot2-started/4springboot2-started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2springboot2.0-config/config.iml" filepath="$PROJECT_DIR$/2springboot2.0-config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ksea-springboot2019.iml" filepath="$PROJECT_DIR$/.idea/ksea-springboot2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3springboot2.0-logback/logback.iml" filepath="$PROJECT_DIR$/3springboot2.0-logback/logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3springboot2.0-logging/logging.iml" filepath="$PROJECT_DIR$/3springboot2.0-logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1springboot2.0-helloword/springboot2.0-helloword.iml" filepath="$PROJECT_DIR$/1springboot2.0-helloword/springboot2.0-helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4springboot2-started/started.iml" filepath="$PROJECT_DIR$/4springboot2-started/started.iml" />
+    </modules>
+  </component>
+</project>

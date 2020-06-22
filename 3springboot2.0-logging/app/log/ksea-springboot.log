@@ -1,9 +1,0 @@
-2019-12-15 11:44:57.708 [ main ] - [ INFO  ] [ org.ksea.logging.LoggingApplicationTests : 55 ] - Starting LoggingApplicationTests on ksea with PID 11652 (started by Administrator in D:\dev.ksea\dev.file\ksea-springboot2019\3springboot2.0-logging)
-2019-12-15 11:44:57.710 [ main ] - [ DEBUG ] [ org.ksea.logging.LoggingApplicationTests : 56 ] - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
-2019-12-15 11:44:57.711 [ main ] - [ INFO  ] [ org.ksea.logging.LoggingApplicationTests : 655 ] - The following profiles are active: dev
-2019-12-15 11:44:59.468 [ main ] - [ INFO  ] [ org.ksea.logging.LoggingApplicationTests : 61 ] - Started LoggingApplicationTests in 2.397 seconds (JVM running for 3.544)
-2019-12-15 11:44:59.681 [ main ] - [ TRACE ] [ org.ksea.logging.LoggingApplicationTests : 15 ] - 这是日志中的最低等级..........trace
-2019-12-15 11:44:59.681 [ main ] - [ DEBUG ] [ org.ksea.logging.LoggingApplicationTests : 16 ] - 这是日志中的debug等级.........debug
-2019-12-15 11:44:59.682 [ main ] - [ INFO  ] [ org.ksea.logging.LoggingApplicationTests : 17 ] - 这是日志中的info等级的..........info
-2019-12-15 11:44:59.682 [ main ] - [ WARN  ] [ org.ksea.logging.LoggingApplicationTests : 18 ] - 这是日志中的warn等级的..........warn
-2019-12-15 11:44:59.682 [ main ] - [ ERROR ] [ org.ksea.logging.LoggingApplicationTests : 19 ] - 这是日志中的error等级的........error
